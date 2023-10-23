@@ -104,7 +104,7 @@ class App extends Component {
             </div>
             <div class="btn__holder dvd">
               <button className="btn" onClick={() => this.addToDisplay("-")}>
-                --
+                -
               </button>
             </div>
             <div class="btn__holder">
