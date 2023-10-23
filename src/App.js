@@ -37,7 +37,7 @@ class App extends Component {
     return (
       <div class="conainer">
         <div class="body">
-          <h2 class="heading">PUNJAB COLLEGE</h2>
+          <h2 class="heading">Casio</h2>
           <input
             className="LCD numbers"
             type="text"
